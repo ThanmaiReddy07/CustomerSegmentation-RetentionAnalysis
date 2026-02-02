@@ -51,8 +51,9 @@ The goal is to help businesses identify customers likely to churn and design ret
 
 ---   
   
-👩‍💻 Author
+## 👩‍💻 Author
 Developed by Thanmai Reddy Chinnapareddy  
 Computer Science Student | AI & Data Science Enthusiast
 
 ---   
+
