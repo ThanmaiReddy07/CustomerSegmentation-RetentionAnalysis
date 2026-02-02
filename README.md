@@ -27,7 +27,7 @@ The goal is to help businesses identify customers likely to churn and design ret
   - pandas, numpy, scikit-learn
   - imbalanced-learn (SMOTE-ENN)
   - xgboost
-  - matplotlib, seaborn, plotly
+  - matplotlib, seaborn
   - streamlit
   - joblib
 
@@ -56,4 +56,5 @@ Developed by Thanmai Reddy Chinnapareddy
 Computer Science Student | AI & Data Science Enthusiast
 
 ---   
+
 
